@@ -1,8 +1,8 @@
-This project was bootstrapped with [Create React App](https://tinderclone-45105.web.app/).
+## Available Scripts
 
-## Firebase Demo
+### [Create React App](https://tinderclone-45105.web.app/).
 
-Demo deployed in Firebase [Click Here]().
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
