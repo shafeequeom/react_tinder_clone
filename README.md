@@ -1,8 +1,6 @@
-## Available Scripts
+## Live Demo Link Down
 
-### [Create React App](https://tinderclone-45105.web.app/).
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Goto Live Demo [Clik Here](https://tinderclone-45105.web.app/).
 
 ## Available Scripts
 
